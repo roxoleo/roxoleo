@@ -1,8 +1,11 @@
 ## Olá! Eu sou o Léo Roxo
 
-- 🔭 Em fase final de entrega TCC 2022 - Engenharia de Computação T2017 - Univesp
-- 🌱 Participando do Santander Bootcamp FullStack Developer 
-- 😄 Pronouns: ele/dele
+- 🧑‍🎓 Em fase final de entrega TCC 2022 - Engenharia de Computação T2017 - Univesp
+- 👨‍💻 Participando do Santander Bootcamp FullStack Developer
+- 📚 Estudando bastante técnicas e métodos FullStack
+- 👨‍🔧 Trabalho com Consultoria em Tecnologia e Suporte ao Usuário de TI/C
+- 👨‍🚀 Sou da área AeroEspacial
+- 🎮 Jogo nas horas vagas (atualmente Dyson Sphere Program)...
 
 <div>
   <a href="https://beacons.ai/roxoleo">
