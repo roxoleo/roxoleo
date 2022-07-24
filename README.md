@@ -3,6 +3,7 @@
    <img align="right" alt="RoxoLéo-Hi" height="180" width="140" src="https://github.com/roxoleo/roxoleo/blob/main/.github/workflows/Avatar_L%C3%A9o2.jpg">
 
 - 🧑‍🎓 Formando em Engenharia de Computação T2017 - Univesp
+- 📗📑 Defesa TCC ["Unificação e Modernização do SIAFEM"](https://youtu.be/yR_iB3RUYv8)
 - 👨‍💻 Participando do Santander Bootcamp FullStack Developer
 - 📚 Estudando bastante técnicas e métodos FullStack
 - 👨‍🔧 Trabalho com Consultoria em Tecnologia e Suporte ao Usuário de TI/C
