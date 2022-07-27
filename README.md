@@ -4,6 +4,7 @@
 
 - 🧑‍🎓 Formando em Engenharia de Computação T2017 - Univesp
 - 📗📑 Defesa TCC ["Unificação e Modernização do SIAFEM"](https://youtu.be/yR_iB3RUYv8)
+- 🧑‍💻Projetos Integradores de Engenharia [(Participação)](https://www.youtube.com/user/leonardoroxo/playlists)
 - 👨‍💻 Participando do Santander Bootcamp FullStack Developer
 - 📚 Estudando bastante técnicas e métodos FullStack
 - 👨‍🔧 Trabalho com Consultoria em Tecnologia e Suporte ao Usuário de TI/C
