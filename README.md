@@ -5,7 +5,7 @@
 - 🧑‍🎓 Formado em Engenharia de Computação T2017 - Univesp
 - 📗📑 Defesa TCC "Unificação e Modernização do SIAFEM"
 - 🧑‍💻Projetos Integradores de Engenharia [(Participação)](https://www.youtube.com/playlist?list=PLIVEeVssQzwvCiPAPQGf43pQGysAHF6eL)
-- 👨‍💻 Participando do Santander Bootcamp FullStack Developer
+- 👨‍💻 Santander Bootcamp FullStack Developer Concluído!
 - 📚 Estudando bastante técnicas e métodos FullStack
 - 👨‍🔧 Trabalho com Consultoria em Tecnologia e Suporte ao Usuário de TI/C
 - 👨‍🚀 Sou da área AeroEspacial
