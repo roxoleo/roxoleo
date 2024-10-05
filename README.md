@@ -9,7 +9,7 @@
 - 📚 Estudando bastante técnicas e métodos FullStack
 - 👨‍🔧 Trabalho com Consultoria em Tecnologia e Suporte ao Usuário de TI/C
 - 👨‍🚀 Sou da área AeroEspacial
-- 🎮 Jogo nas horas vagas (atualmente Dyson Sphere Program)...
+- 🎮 Jogo nas horas vagas (atualmente Factorio, Dyson Sphere Program, Icarus, Core Keeper)...
 </div>
 
 <div>
